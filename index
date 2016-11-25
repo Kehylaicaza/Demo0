@@ -11,35 +11,27 @@
     </head>
 
     <body>       
+ <div style="text-align: center; font-size: 60px; border: 1px solid red;">
 
+ Hola a todos
 
-        <nav>
-
-            <ul>
-
-                <li><a href=“#”>inicio</a></li>
-
-                <li><a href=“#”>blog</a></li>
-
-                <li><a href=“#”>vídeos</a></li>
-
-            </ul>
-
-        </nav>
- <div style="border: 1px solid red;">
-hola 
+<span style="color: green;">de</span> la <span style="color: orange;">página</span>.
 
 </div>
 
- <footer>
+<div style="border: 1px solid green;">
 
-            <small>
+Bienvenidos
 
-                Copyright &copy; 2016<br/>          
+</div>
 
-            </small>        
+<div style="border: 1px solid blue;">
 
-        </footer>
+Hello
+
+</div>
+
+         
     </body>
 
 </html>
