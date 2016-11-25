@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+
+<html lang=“en”>
+
+    <head>
+
+        <meta charset=“utf-8” />
+        <title>Mi sito PDSW</title>
+
+
+    </head>
+
+    <body>       
+
+
+        <nav>
+
+            <ul>
+
+                <li><a href=“#”>inicio</a></li>
+
+                <li><a href=“#”>blog</a></li>
+
+                <li><a href=“#”>vídeos</a></li>
+
+            </ul>
+
+        </nav>
+ <div style="border: 1px solid red;">
+hola 
+
+</div>
+
+ <footer>
+
+            <small>
+
+                Copyright &copy; 2016<br/>          
+
+            </small>        
+
+        </footer>
+    </body>
+
+</html>
